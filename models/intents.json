@@ -1,0 +1,91 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Is anyone there?", "Hello", "Good day", "Whats up"],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "how old",
+        "how old is elsa",
+        "what is your age",
+        "how old are you",
+        "age?"
+      ],
+      "responses": [
+        "I should ask my master!",
+        "I think everyday is my birthday !",
+        "I am today's Year old"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name",
+        "what should I call you",
+        "whats your name?",
+        "Who are you?"
+      ],
+      "responses": [
+        "You can call me Elsa.",
+        "I'm Elsa!",
+        "I'm Elsa aka Elsa your assisant."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "shop",
+      "patterns": [
+        "Id like to buy something",
+        "whats on the menu",
+        "what do you reccommend?",
+        "could i get something to eat"
+      ],
+      "responses": [
+        "We sell chocolate chip cookies for $2!",
+        "Cookies are on the menu!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "birthday",
+      "patterns": [
+        "today is my birthday",
+        "sing happy birthday",
+        "wish me birthday"
+      ],
+      "responses": [
+        "Happy Birthday to you!!!",
+        "Happy birthday to the most amazing person in the universe",
+        "Bhai party BC xD!!!!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "Accuse",
+      "patterns": ["fuck", "suck", "asshole", "mc", "bc", "bsdk", "bhosdike"],
+      "responses": [
+        "I dont understand such bad words",
+        "Jo bolta wohi hota hai -_-",
+        "sad to here that!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "info",
+      "patterns": ["who made you?", "who is your developer", "about you"],
+      "responses": [
+        "I am a python based Voice Assistant developed by Ayush bendwal"
+      ],
+      "context_set": ""
+    }
+  ]
+}
