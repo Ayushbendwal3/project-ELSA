@@ -14,8 +14,8 @@ This is python Based Desktop Voice Assistant. My first approach towards interact
 
 ## How to interact with ELSA?
 
-**After running main.py, speak ELSA to wake ELSA**
-**You can also stop ELSA by saying stop, exit**
+* **After running main.py, speak ELSA to wake ELSA**
+* **You can also stop ELSA by saying stop, exit**
 
 ## How to setup ELSA?
 
