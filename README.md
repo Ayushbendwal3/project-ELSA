@@ -7,13 +7,15 @@ This is python Based Desktop Voice Assistant. My first approach towards interact
 - Can get you corona(covid-19) updates
 - Read you unread Emails from Gmail
 - Can access your Google Calender
-- Can play music for you from your storage
+- Can play music for you from your local storage(make sure to update path in Music.py file)
 - Can make a Note for you
 - Can search articles on wikipedia
+- Can repeat whatever you say to repeat
 
 ## How to interact with ELSA?
 
 **After running main.py, speak ELSA to wake ELSA**
+**You can also stop ELSA by saying stop, exit**
 
 ## How to setup ELSA?
 
