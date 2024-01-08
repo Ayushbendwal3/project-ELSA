@@ -1,11 +1,7 @@
 import requests
 import json
 
-'''
-to get free api key sign up on openweather.org 
-and get your own key and paste beloe
-'''
-api_key = "292ff1c07776f89c1616519e68dc2fe3"
+api_key = ""
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 
