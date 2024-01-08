@@ -3,8 +3,8 @@ import time
 import threading
 import requests
 
-API_KEY = "tRjc4MAEpMWn"
-PROJECT_TOKEN = "tme_V6qL3GjD"
+API_KEY = "your key"
+PROJECT_TOKEN = "your token"
 
 
 class Data:
